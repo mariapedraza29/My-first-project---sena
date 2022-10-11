@@ -1,3 +1,4 @@
 nombre: maria rosaura pedraza villa
 edad: 18
 correo: pedrazamariia@gmail.com
+color favorito: negro
